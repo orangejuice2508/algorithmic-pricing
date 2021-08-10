@@ -1,5 +1,7 @@
 package de.unipassau.simulation.NFor;
 
+// SOURCE CODE IS FROM https://github.com/BeUndead/NFor
+
 final class NForWhile<T extends Number & Comparable<T>> {
 
     private final NForWhileTerm[] terms;

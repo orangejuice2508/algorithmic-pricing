@@ -4,6 +4,8 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
+// SOURCE CODE IS FROM https://github.com/BeUndead/NFor
+
 public class NForPart<T extends Number & Comparable<T>> {
 
     private static final List<Class> SUPPORTED_CLASSES = new ArrayList<>();

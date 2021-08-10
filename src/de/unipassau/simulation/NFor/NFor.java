@@ -2,6 +2,8 @@ package de.unipassau.simulation.NFor;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+// SOURCE CODE IS FROM https://github.com/BeUndead/NFor
+
 /**
  * Provides a simple {@link Iterable} {@link Object} to simplify the construction of {@code n}-nested {@code for}-loops.
  * The usage is as follows:
